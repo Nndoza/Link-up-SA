@@ -36,11 +36,38 @@ The app was developed as a mobile-responsive Progressive Web App using React.js 
 
 The development journey followed six key stages. In the ideation and research stage, the app concept was defined, competitors were analyzed, and safety gaps specific to South Africa were identified. During planning and design, wireframes and mockups were created, styled with a black background and a South African-inspired palette of yellow, orange, and deep red. Development was then set up on Replit, Firebase, and GitHub for version control.
 
-!
+![image alt](https://github.com/Nndoza/Link-up-SA/blob/b19ef381507b4d263db9c7fe3bf3bcb2b97c529d/Images%20for%20the%20app/ChatGPT%20Image%20Aug%2024%2C%202025%2C%2007_46_24%20PM.png)
+
+![image alt](https://github.com/Nndoza/Link-up-SA/blob/b19ef381507b4d263db9c7fe3bf3bcb2b97c529d/Images%20for%20the%20app/ChatGPT%20Image%20Aug%2024%2C%202025%2C%2007_47_50%20PM.png)
+
+![image alt](https://github.com/Nndoza/Link-up-SA/blob/b19ef381507b4d263db9c7fe3bf3bcb2b97c529d/Images%20for%20the%20app/ChatGPT%20Image%20Aug%2024%2C%202025%2C%2011_57_24%20PM.png)
+
 
 Implementation included building the core PWA with React and Firebase, and integrating Twilio SendGrid to enable an email API for sending emergency notifications to parents and friends. Firebase Functions powered panic alerts, location updates, and group sharing features. 
 
+## Testing and Debugging
+
 Testing and debugging focused on fixing crashes, login loops, and navigation errors, as well as simulating low battery and offline scenarios to confirm resilience. Finally, the project demonstrated lessons learned: that prompt structure strongly influences AI coding output, debugging requires patience, and PWAs are excellent for MVPs but limited in background GPS, which will require a future native migration.
+
+![image alt](https://github.com/Nndoza/Link-up-SA/blob/b19ef381507b4d263db9c7fe3bf3bcb2b97c529d/Images%20for%20the%20app/Screenshot%202025-08-27%20165754.png)
+
+![image alt](https://github.com/Nndoza/Link-up-SA/blob/b19ef381507b4d263db9c7fe3bf3bcb2b97c529d/Images%20for%20the%20app/Screenshot%202025-08-25%20223318.png)
+
+
+![image alt](https://github.com/Nndoza/Link-up-SA/blob/b19ef381507b4d263db9c7fe3bf3bcb2b97c529d/Images%20for%20the%20app/Screenshot%202025-08-26%20121823.png)
+
+
+## Risks and Mitigation
+
+The app faces several risks, including the technical limitation of background GPS in PWAs, which will be addressed by migrating to React Native in later versions. Privacy concerns are mitigated by encryption and compliance with POPIA regulations. Adoption barriers are to be managed through partnerships with schools, ride-hailing companies, women’s safety NGOs, and insurers.
+
+## Roadmap
+The roadmap begins with launching the MVP as a PWA, followed by pilot testing with youth groups, universities, and ride-hailing users. Based on feedback, the app will expand into a full React Native mobile version for stronger background GPS tracking. In later stages, LinkUp SA will pursue partnerships with Uber, Bolt, schools, and NGOs to increase adoption and trust.
+
+## Conclusion
+
+LinkUp SA is not just another panic app. Unlike existing solutions that rely solely on slow and under-resourced emergency services, LinkUp SA alerts loved ones first, ensuring faster intervention and coordinated community action. By combining Teen Mode, Ride Mode, Meeting Mode, a panic button, low-battery resilience, and group backup device linking, it creates a community-first digital safety net uniquely suited to South Africa’s realities. LinkUp SA is designed for South Africans, by South Africans, and represents a scalable innovation that can help reduce kidnappings, hijackings, and disappearances.
+
 
 
 
