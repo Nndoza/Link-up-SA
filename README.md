@@ -1,0 +1,4 @@
+# Overview
+
+LinkUp SA is a South African-built Progressive Web App (PWA) that addresses the urgent safety challenges faced by young adults, women, ride-hailing passengers, and families. The app introduces three distinct safety modes :Teen Mode, Ride Mode, and Meeting Mode,supported by a global SOS panic button  and backup group location sharing. LinkUp SA – Official Report
+
